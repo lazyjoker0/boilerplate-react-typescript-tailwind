@@ -16,33 +16,33 @@ ESLint & Prettier: Code linting and formatting.
 
 SASS Support: Preprocessor for advanced CSS functionality.
 
-### Installation
+# Installation
 
-# Using npm
+## Using npm
 
 npm install
 
-# Using Yarn
+## Using Yarn
 
 yarn install
 
-#### Scripts
+# Scripts
 
-# Start Development Server
+## Start Development Server
 
 npm start
 
-# or
+## or
 
 yarn start
 
 Runs the app in development mode. Open http://localhost:3000 to view it in the browser.
 
-# Build for Production
+## Build for Production
 
 npm run build
 
-# or
+## or
 
 yarn build
 
@@ -52,42 +52,40 @@ Run Tests
 
 npm test
 
-# or
+## or
 
 yarn test
 
 Launches the test runner in interactive watch mode.
 
-# Eject Configuration
+## Eject Configuration
 
 npm run eject
 
-# or
+## or
 
 yarn eject
 
 Removes the create-react-app configuration and makes all settings available for customization. This is irreversible.
 
-##### Project Structure
+# Project Structure
 
 boilerplate-react-typescript-tailwind/
-├── src/ # Source code folder
-│ ├── components/ # Reusable React components
-│ ├── pages/ # Page components
-│ ├── styles/ # Global styles and Tailwind setup
-│ ├── App.tsx # Main app component
-│ ├── index.tsx # Application entry point
-├── public/ # Static files
-├── package.json # Dependencies and scripts
-├── tailwind.config.js # Tailwind configuration
-├── tsconfig.json # TypeScript configuration
-└── README.md # Project documentation
+├── src/ # Source code folder.
+│ ├── components/ # Reusable React components.
+│ ├── pages/ # Page components.
+│ ├── styles/ # Global styles and Tailwind setup.
+│ ├── App.tsx # Main app component.
+│ ├── index.tsx # Application entry point.
+├── public/ # Static files.
+├── package.json # Dependencies and scripts.
+├── tailwind.config.js # Tailwind configuration.
+├── tsconfig.json # TypeScript configuration.
+└── README.md # Project documentation.
 
-###### Dependencies
+# Dependencies
 
-nd jhj
-
-# Production Dependencies
+## Production Dependencies
 
 react, react-dom - Core React libraries.
 
@@ -105,9 +103,9 @@ eslint, eslint-config-react-app, eslint-plugin-react, eslint-plugin-react-hooks 
 
 @testing-library/react, @testing-library/jest-dom, @testing-library/user-event - Testing utilities.
 
-Browser Support
+# Browser Support
 
-The project supports modern browsers:
+## The project supports modern browsers:
 
 Chrome (latest)
 
@@ -121,7 +119,7 @@ Contributing
 
 Fork the repository.
 
-Create a new feature branch.
+## Create a new feature branch.
 
 Commit your changes.
 
@@ -129,6 +127,6 @@ Push to the branch.
 
 Open a pull request.
 
-License
+# License
 
 This project is licensed under the MIT License.
