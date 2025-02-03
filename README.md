@@ -72,25 +72,15 @@ Removes the create-react-app configuration and makes all settings available for 
 
 boilerplate-react-typescript-tailwind/
 ├── src/ # Source code folder.
-
 │ ├── components/ # Reusable React components.
-
 │ ├── pages/ # Page components.
-
 │ ├── styles/ # Global styles and Tailwind setup.
-
 │ ├── App.tsx # Main app component.
-
 │ ├── index.tsx # Application entry point.
-
 ├── public/ # Static files.
-
 ├── package.json # Dependencies and scripts.
-
 ├── tailwind.config.js # Tailwind configuration.
-
 ├── tsconfig.json # TypeScript configuration.
-
 └── README.md # Project documentation.
 
 # Dependencies
