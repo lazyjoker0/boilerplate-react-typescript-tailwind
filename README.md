@@ -71,6 +71,7 @@ Removes the create-react-app configuration and makes all settings available for 
 # Project Structure
 
 boilerplate-react-typescript-tailwind/
+
 ├── src/ # Source code folder.
 
 │ ├── scss/ # Global styles and Tailwind setup.
